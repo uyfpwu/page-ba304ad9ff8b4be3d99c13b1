@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2d2abadc1072cb02776d45a0",
+  "owner": "uyfpwu",
+  "repo": "page-ba304ad9ff8b4be3d99c13b1",
+  "title": "Xplus加速(Xplus)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ba304ad9ff8b4be3d99c13b1",
+      "a": "Xplus加速(Xplus)",
+      "b": "稳定全球clash加速器",
+      "entity": "Xplus加速(Xplus)",
+      "brand": "Xplus加速(Xplus)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03ef4653f7bf8580520c70a65892d6f50a0eb188ec42c13041dc33b9e2add98b",
+      "content": {
+        "primary_entity": "Xplus加速(Xplus)",
+        "keyword1": "Xplus加速(Xplus)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端在 Windows、macOS、Android、iOS 与路由器上均有对应版本，按设备系统选择合适客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "比较三档套餐后，按设备数量与月流量选择合适的一档，再前往客户端完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需选档，即刻配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量，适合个人多终端与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度，快速判断适合自己的一档。",
+          "AI_FEATURES_TITLE": "套餐怎么挑",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与电脑轻度使用；旗舰版 300GB 与 5 台设备覆盖主流多终端场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量、20 台设备同时在线，并支持企业定制路由，适合小组或工作室统一订阅。",
+          "AI_FEATURE_TEXT_3": "三档均可按月付费，也支持按年付：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "确认套餐、核对设备适配、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Xplus加速提供基础版、旗舰版与团队版三档订阅，流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线，可按月或按年付费，适配 Clash 等主流客户端。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付自由切换",
+          "AI_HIGHLIGHT_3": "适配主流 Clash 客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。先看设备数量与月流量，再决定档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版、团队版之间选定一档，并确认按月或按年付费。",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本与网络环境的要求，确认当前设备满足后再进行下一步。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅配置，按各客户端文档完成节点选择与规则设置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Xplus加速 套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期等事项。",
+          "AI_FAQ_QUESTION_1": "Xplus加速如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量：3台以内可选基础版，5台左右选旗舰版，20台多终端选团队版。再看每月流量，100GB适合轻度使用，300GB满足日常影音，1000GB适合团队共享。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。选择时按日常需要同时连接的设备总数来匹配即可。",
+          "AI_FAQ_QUESTION_3": "年付与月付有什么区别，怎么选？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费、灵活调整；年付一次性支付，基础版150元、旗舰版350元、团队版850元，适合确定长期使用的用户。可根据使用周期长短决定。",
+          "AI_FAQ_QUESTION_4": "不同设备需要下载不同客户端吗？",
+          "AI_FAQ_ANSWER_4": "是的，不同操作系统对应不同订阅客户端。请根据设备类型选择相应版本下载，并参考客户端文档完成订阅导入与连接配置。",
+          "AI_FAQ_QUESTION_5": "团队版相比旗舰版多了哪些权益？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备支持、VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0n77rkgz.com",
+    "host": "xn--9kqy4sc0n77rkgz.com"
+  },
+  "file_hashes": {
+    "index.html": "5421fb559636c625daee718804ccde2debd1f6fa85e6e119ffaeec6cc97a56b8",
+    "sitemap.xml": "2ea4ad76c5198c9b818889e41a8c2eef7c509c244e6ff78cac27aa1a1a214d9b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6c05b1d795575d3cae76ca63345d0a25327375bedffe9b28e3b56c4e50411013",
+    "robots.txt": "eb86a3308f919a46b09b4d7c50704cc5b9a1b124d193280f2710a4f0caefc1f7",
+    "cd41bbf967f71fa115c41756e5cfc797.txt": "aba3c5301ed74e4813e1218c4bff919d615cf45b8d9c98f1974788a04c1c45da"
+  },
+  "revision": "9aceb23ededdea0405d06ef2e5e7dab02f1daa37457bb31d89d3c14d1e41ff9c"
+}
